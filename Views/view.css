@@ -11,3 +11,7 @@ font-size: 23px;
 body{
   background-color:lightblue;
 }
+input{
+  border-style:solid; 
+  border-color: black; 
+}
