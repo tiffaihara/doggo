@@ -1,5 +1,5 @@
 body{
-  background-color: "lightblue";
+  background-color: lightblue;
   border-style: solid; 
   border-color: black;
   border-radius: 100px;
@@ -7,6 +7,7 @@ body{
 h1{
   text-align: center;
   font-size:70px;
+  font-family: cursive;
 }
 h3{
   font-size: 26px;
