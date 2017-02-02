@@ -1,10 +1,13 @@
 body{
   background-color: "lightblue";
+  border-style: solid; 
+  border-color: black;
+  border-radius: 100px;
 }
 h1{
   text-align: center;
   font-size:70px;
 }
 h3{
-  font-size: 16px;
+  font-size: 26px;
 }
